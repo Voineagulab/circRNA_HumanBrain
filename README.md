@@ -34,4 +34,8 @@ Analysis code for benchmarking analyses.
 ## Functions.R  ##################
 Functions used in analysis scripts.
 
-Preliminary analyses:
+## Deconvolution.R ##################
+Deconvolution of brain gene expression data
+
+## DataFormating_Filtering.R, Circular_to_Linear_Ratios.R##################
+data preprocessing scripts
