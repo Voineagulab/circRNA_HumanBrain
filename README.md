@@ -37,5 +37,5 @@ Functions used in analysis scripts.
 ## Deconvolution.R ##################
 Deconvolution of brain gene expression data
 
-## DataFormating_Filtering.R, Circular_to_Linear_Ratios.R##################
-data preprocessing scripts
+## DataFormating_Filtering.R, Circular_to_Linear_Ratios.R ##################
+Data preprocessing scripts
