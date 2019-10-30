@@ -11,10 +11,10 @@ Analysis code for results presented in  the “circRNA Expression Is Characteriz
 Analysis code for the expression  conservation analysis between human and mouse brain.
 
 ## 3.AlternativeSplicing_vs_circRNA.R  ##################
-Analysis code for results presented in the “Interplay Between Canonical Splicing and Back-Splicing in the Human Brain ” section: 
+Analysis code for results presented in the “Interplay Between Canonical Splicing and Back-Splicing in the Human Brain ” sectio. 
 
 ## 4.Inter_individual_variability.R  ##################
-Analysis code for results presented in the “Interindividual Variability of circRNA Expression Is Less Pronounced Than Interregion Variability” section: 
+Analysis code for results presented in the “Interindividual Variability of circRNA Expression Is Less Pronounced Than Interregion Variability” section.
 
 ## 5.BrainRegion_Age.R  ##################
 Analysis code for results presented in the “circRNA Expression Differences Between the CTX and CB ” section.
