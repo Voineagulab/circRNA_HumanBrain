@@ -1,5 +1,5 @@
 # circRNA_HumanBrain
-Data analysis scripts associated to the Gokoolparsadh et al. 2019 paper
+Data analysis scripts associated to the Gokoolparsadh et al. 2019 paper: https://www.sciencedirect.com/science/article/pii/S0006322319315811
 
 ## 1a.DatasetOverview_MajorIsoformExpression_IntronPairing.R  ##################        
 Analysis code for results presented in the “Dataset Overview” and “Identification of Novel circRNAs ” sections. It also includes analysis of Major Isoform expression.
